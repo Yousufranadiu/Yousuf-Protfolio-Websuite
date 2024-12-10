@@ -1,0 +1,89 @@
+body {
+  background-color: #F5FCFF;
+}
+
+
+
+.hero-section {
+  background-color: #0c1013f1;
+}
+
+.textcolor {
+  color: aqua;
+}
+
+
+.about {
+  background-color: #7facc4;
+  margin-top: auto;
+}
+
+.webcolor {
+  background-color: #F5FCFF;
+}
+
+.skill {
+  background-color: #F5FCFF;
+}
+
+.skilexpertise {
+  background-color: #FFFFFF;
+}
+
+
+
+.faq-section {
+  max-width: 800px;
+  margin: 50px auto;
+}
+
+.faq-card {
+  background-color: #14c9b7;
+  border-radius: 10px;
+  margin-bottom: 15px;
+  padding: 15px;
+  cursor: pointer;
+}
+
+.faq-card h4 {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.faq-card i {
+  font-size: 1.2rem;
+}
+
+.faq-card .faq-answer {
+  display: none;
+  margin-top: 10px;
+  font-size: 0.95rem;
+  color: #000;
+}
+
+/* footer custom css*/
+.footer_logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.footer_logo.text-success {
+  color: #16df3e;
+}
+
+footer a:hover {
+  color: #16df3e;
+  text-decoration: underline;
+}
+
+footer ul li {
+  margin-bottom: 0.5rem;
+}
+
+footer ul.list-inline li {
+  margin-right: 10px;
+}
+
+footer small {
+  color: #aaa;
+}
